@@ -1,5 +1,6 @@
 # mtm6201-week1-030
 Francois Francoeur
 
-read me is where you would insert
-reference code for example
+Inside readme you should
+1. Describe the project
+2. Insert reference code if any
